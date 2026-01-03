@@ -14,4 +14,4 @@ LGDs are commonly 0% and 100%, which makes us unable to use Beta Regression on i
 There are 2 commonly suggested approaches to modeling fractions: use ZOIB or squish the endpoints so that the 0% values are not quite 0%.
 
 This analysis simulates data, then compares the accuracy and interpretibility of both methods.
-Last Updated: 1/1/2026
+Analysis started on: 1/1/2026
