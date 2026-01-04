@@ -13,5 +13,6 @@ We also are generally interested in LGD behaviour between 0% and 100% so Logisti
 LGDs are commonly 0% and 100%, which makes us unable to use Beta Regression on its own.
 There are 2 commonly suggested approaches to modeling fractions: use ZOIB or squish the endpoints so that the 0% values are not quite 0%.
 
-This analysis simulates data, then compares the accuracy and interpretibility of both methods.
-Analysis started on: 1/1/2026
+  This analysis simulates data, then compares the accuracy and interpretibility of both methods.
+
+  Analysis started on: 1/1/2026
